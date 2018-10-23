@@ -7,7 +7,7 @@
 
 #### Le code de ce projet permet la mise à disposition des informations de la classe suivante :
 
-![](people-class-diagram.png)
+/!\ (people-class-diagram.png)
 
 ### Présentation de l'API REST
 
